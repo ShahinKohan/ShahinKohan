@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**ShahinKohan/ShahinKohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **AIMS360 ERP**, **AIMS360 Runway**, and **Fund360.ai**
+- 🌱 I’m currently learning how to apply AI across different industries
+- 📘 I’m also exploring the **Palantir Artificial Intelligence Platform (AIP)** and its real-world applications
 
-Here are some ideas to get you started:
+### 🧠 What I Specialize In
+- ⚙️ **API development**
+- 💻 **C#**, **.NET**
+- 🐍 **Python**
+- 🤖 **AI & Machine Learning**
+- ☁️ **Cloud-native architectures**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td><a href="https://api.badgr.io/public/assertions/g8rr3G78S42zGHDnSiR_Pw?identity__email=shahin%40aims360.com"><img src="https://api.badgr.io/public/assertions/g8rr3G78S42zGHDnSiR_Pw/image" width="100"/></a></td>
+    <td><a href="https://api.badgr.io/public/assertions/E6hxVP4kRoqfuQq4SDKreg?identity__email=shahin%40aims360.com"><img src="https://api.badgr.io/public/assertions/E6hxVP4kRoqfuQq4SDKreg/image" width="100"/></a></td>
+    <td><a href="https://api.badgr.io/public/assertions/WHxgXNwERW2c62eM58lYEw?identity__email=shahin%40aims360.com"><img src="https://api.badgr.io/public/assertions/WHxgXNwERW2c62eM58lYEw/image" width="100"/></a></td>
+    <td><a href="https://api.badgr.io/public/assertions/719pVCdgTSSCE6-aP1T_MQ?identity__email=shahin%40aims360.com"><img src="https://api.badgr.io/public/assertions/719pVCdgTSSCE6-aP1T_MQ/image" width="100"/></a></td>
+    <td><a href="https://api.badgr.io/public/assertions/BhVepC3_TaOiEPJECMhMag?identity__email=shahin%40aims360.com"><img src="https://api.badgr.io/public/assertions/BhVepC3_TaOiEPJECMhMag/image" width="100"/></a></td>
+  </tr>
+</table>
