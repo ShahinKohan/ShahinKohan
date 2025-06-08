@@ -14,6 +14,7 @@
 - 🛡️ **Cybersecurity** practices for modern enterprise systems
 - 📊 **Data Analysis & Engineering** using:
   - **Microsoft Fabric**
+  - **PowerBI**
   - **Snowflake**
   - **SQL & BigQuery**
 
