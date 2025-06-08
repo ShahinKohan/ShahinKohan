@@ -8,8 +8,16 @@
 - ⚙️ **API development**
 - 💻 **C#**, **.NET**
 - 🐍 **Python**
+- ⚛️ **React** (Frontend UI Development)
 - 🤖 **AI & Machine Learning**
 - ☁️ **Cloud-native architectures**
+- 🛡️ **Cybersecurity** practices for modern enterprise systems
+- 📊 **Data Analysis & Engineering** using:
+  - **Microsoft Fabric**
+  - **Snowflake**
+  - **SQL & BigQuery**
+
+### 🏅 
 
 <table>
   <tr>
